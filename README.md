@@ -12,7 +12,7 @@ with my projects.
 `phonTools` package. Includes IPA conversion with `ipa` package and reusable plotting function with `stat_ellipse()` and 
 vowel means. 
 
-- `exploring_Peterson&Barney52.R` - Vowel space plots for F1 and F2 data from the pb52 dataset in phonTools.
+- `exploring_Peterson_Barney52.R` - Vowel space plots for F1 and F2 data from the pb52 dataset in phonTools.
 Used `phonTools`, xsampa to IPA conversion with `ipa` package, `tidyverse` for data manipulation and plotting. 
 Includes raw Hz and normalised Hz vowel space plots for speakers, including a faceted plot by age group (adults vs children),
 and my attempts at recreating the original vowel space figure from the 1952 paper. 
